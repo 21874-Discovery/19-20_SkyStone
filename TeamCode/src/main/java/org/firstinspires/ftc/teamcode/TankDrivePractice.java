@@ -1,11 +1,9 @@
 package org.firstinspires.ftc.teamcode;
-
+// I got it! -JRS 8/22/2020
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
-import com.qualcomm.robotcore.hardware.ColorSensor;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
-import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.Range;
 @TeleOp(name = "TankDrivePractice", group = "team")
 
