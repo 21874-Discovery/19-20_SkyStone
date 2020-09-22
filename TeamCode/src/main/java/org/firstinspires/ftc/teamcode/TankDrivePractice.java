@@ -2,6 +2,7 @@ package org.firstinspires.ftc.teamcode;
 // I got it! -JRS 8/22/2020
 //Retest - JRS 9/5/2020
 //19-20_Skystone - JRS 9/5/2020
+//09-22-2020 - JRS
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
