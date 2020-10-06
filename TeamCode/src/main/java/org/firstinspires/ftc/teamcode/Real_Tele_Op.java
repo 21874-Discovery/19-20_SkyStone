@@ -16,7 +16,7 @@ public class Real_Tele_Op extends OpMode {
     DcMotor TopRight;
     DcMotor BackLeft;
     DcMotor BackRight;
-    Servo Hook;
+    Servo   Hook;
     /*Servo Claw1;
     Servo Claw2;*/
 
